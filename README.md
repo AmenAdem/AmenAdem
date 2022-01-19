@@ -16,7 +16,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1][2].
+You can find me on [![LinkedIn][2].
 
 <!-- Icons -->
 
