@@ -20,7 +20,7 @@ You can find me on [![LinkedIn][3.2]][3]
 
 <!-- Icons -->
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]:http://www.w3.org/2000/svg
  
 
 <!-- Links to your social media accounts -->
