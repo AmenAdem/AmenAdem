@@ -16,11 +16,11 @@
 
 <!-- Actual text -->
 
-You can find me on <img src=" https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" href=" https://www.linkedin.com/in/amen-amen-1a4b321b3/" >[2].
+You can find me on [![LinkedIn][3.2]][3]
 
 <!-- Icons -->
 
-[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
  
 
 <!-- Links to your social media accounts -->
