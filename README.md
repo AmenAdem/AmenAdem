@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on some open source projects
  
-<img src="https://github-readme-stats.vercel.app/api?username=AmenAdem&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=AmenAdem">
                    
                    
 <img src="https://badges.pufler.dev/years/AmenAdem">         <img src ="https://img.shields.io/badge/flutter-2.8.1-blue">       <img src="https://img.shields.io/badge/dart-2.15.1%20-blue">   
