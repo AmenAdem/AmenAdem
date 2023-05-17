@@ -91,7 +91,7 @@
    <br>
    
    <hr>   
-   <h3 align="left">Status:</h3>
+   <h3 align="left">Stats :</h3>
 <div align="center">
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amenadem&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="amenadem" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amenadem&show_icons=true&locale=en" alt="amenadem" /></p>
