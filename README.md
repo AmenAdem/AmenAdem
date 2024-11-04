@@ -2,13 +2,13 @@
 <hr>   
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-**I'm a Computer Science Student**
+**I'm a Software developer and a Computer Science Engineering student **
 
 - 👨‍💻 Welcome to my profile! I'm a dedicated Flutter developer with a passion for backend development and system design.
 - 📚 I'm currently exploring the exciting world of microservice architecture and continuously expanding my knowledge in this area.
 - 💡 As a system design enthusiast, I find joy in analyzing complex problems and designing scalable, efficient, and maintainable solutions.
 - 💪🏼 My future goals revolve around mastering microservice development and leveraging this architecture to create innovative solutions. I'm committed to staying updated with emerging technologies, exploring different frameworks, and refining my understanding of scalable system design.
-<br>
+<!-- <br>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -90,7 +90,7 @@
    </p>
    <br>
    
-   <hr>   
+   <hr>    -->
    <h3 align="left">Stats :</h3>
 <div align="center">
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amenadem&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="amenadem" /></p>
@@ -106,7 +106,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amen-adem-1a4b321b3/"><img alt="Linkedin" title="Amen Adem Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="mailto:ademth22@gmail.com"><img alt="Gmail" title="adem amen Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://twitter.com/amen_adem">
+ <a href="https://x.com/Doss_amen">
   <img alt="Amen Adem | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </p>
